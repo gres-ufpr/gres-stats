@@ -1,18 +1,12 @@
-![alt tag](https://raw.githubusercontent.com/thiagodnf/sbse-stats/master/img/sbse.png)
+![alt tag](https://raw.githubusercontent.com/thiagodnf/gres-stats/master/img/logo-gres.png)
 
-# SBSE Stats
-Statistics about the Search-Based Software Engineering Repository
+# GrES Stats
+Statistics of Publications of Research Group on Software Engineering
 
 ## Statistics:
 
 See the statistics at:
 
-http://thiagodnf.github.io/sbse-stats/
-
-## Repository:
-
-See the repository by accessing the website at:
-
-http://crestweb.cs.ucl.ac.uk/resources/sbse_repository/
+http://thiagodnf.github.io/gres-stats
 
 
