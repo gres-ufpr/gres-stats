@@ -1,4 +1,4 @@
-var url = "https://dl.dropbox.com/s/xmt2nywjmrt1xl0/references.bib?dl=1";
+var url = "https://raw.githubusercontent.com/gres-ufpr/basic-informations/master/publications.bib";
 
 var spinner;
 var maxResults = 30;
